@@ -1,5 +1,5 @@
-Wei Huang
-weihuang@uchicago.edu
+## Gravity Lab
+* Gravity Lab is a Swift playground to help your SpritKit learning experience a little bit more fun.
 
-# mpcs51032-2017-wwdc-scholarship-imweihuang
-Project #1 - WWDC2017 Scholarship Playground
+#### Demo
+![alt text](https://github.com/imweihuang/gravity-lab/blob/master/gifs/gravity-lab-gif.gif)
